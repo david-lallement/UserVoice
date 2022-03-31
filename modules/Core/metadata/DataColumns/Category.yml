@@ -1,0 +1,4 @@
+- Name: CategoryId
+  DataType: AutoIncrementedInteger
+  Required: true
+- Name: Description

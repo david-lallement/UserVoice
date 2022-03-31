@@ -1,0 +1,4 @@
+Description: Message
+KeyProperties:
+- Id
+TableName: Message

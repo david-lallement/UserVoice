@@ -1,0 +1,27 @@
+EntityViewName: MessageView
+Template: |-
+  <vertical-layout layout:height="fill">
+      <heading level="1" layout:padding="small">
+          @Title
+      </heading>
+      <card layout:height="fill">
+          <splitter layout:height="fill">
+              <splitter-panel size="60">
+                  <vertical-layout layout:height="fill" layout:padding="small">
+                      <toolbar refresh="true" />
+                      <datagrid layout:height="fill" />
+                      <pagination-bar />
+                  </vertical-layout>
+              </splitter-panel>
+              <splitter-panel>
+                  <vertical-layout layout:height="fill" layout:padding="small">
+                      <form-field property-name="Id" />
+                      <form-field property-name="Date" />
+                      <form-field property-name="Description" />
+                      <form-field property-name="UserMail" />
+                  </vertical-layout>
+              </splitter-panel>
+          </splitter>
+      </card>
+  </vertical-layout>
+Title: MessageUI

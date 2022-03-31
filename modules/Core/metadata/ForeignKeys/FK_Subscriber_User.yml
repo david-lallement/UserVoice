@@ -1,0 +1,4 @@
+ColumnsList:
+- UserEMail
+ReferencedTableName: User
+TableName: Subscriber
