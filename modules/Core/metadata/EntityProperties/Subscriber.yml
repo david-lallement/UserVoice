@@ -1,6 +1,8 @@
 - Name: Date
   Caption: Date
   DataType: DateTime
+- Name: FeatureRequestId
+  Caption: Feature request identifier
 - Name: Id
   Caption: Id
   DataType: AutoIncrementedInteger

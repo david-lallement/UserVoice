@@ -6,6 +6,9 @@
   DataType: MultilineString
   MaxLength: 4000
   Required: true
+- Name: FeatureRequestId
+  Caption: Feature request identifier
+  DataType: Integer
 - Name: Id
   Caption: Id
   DataType: AutoIncrementedInteger

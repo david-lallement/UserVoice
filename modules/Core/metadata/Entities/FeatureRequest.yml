@@ -1,0 +1,4 @@
+Description: Feature request
+KeyProperties:
+- FeatureRequestId
+TableName: FeatureRequest

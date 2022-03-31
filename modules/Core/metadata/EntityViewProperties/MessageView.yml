@@ -2,6 +2,8 @@
   Source: Date
 - Name: Description
   Source: Description
+- Name: FeatureRequestId
+  Source: FeatureRequestId
 - Name: Id
   Source: Id
 - Name: UserMail
