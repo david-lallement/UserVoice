@@ -4,6 +4,7 @@
 - Name: Description
   DatagridPosition: 3
   DatagridVisible: true
+- Name: FeatureRequestId
 - Name: Id
   DatagridPosition: 1
   DatagridVisible: true

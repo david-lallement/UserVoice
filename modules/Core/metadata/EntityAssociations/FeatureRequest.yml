@@ -1,0 +1,12 @@
+- Name: Category
+  ReferencedEntityName: Category
+  ScalarProperties:
+  - CategoryId
+- Name: CreatedBy
+  ReferencedEntityName: User
+  ScalarProperties:
+  - UserEmail
+- Name: Interlocutor
+  ReferencedEntityName: User
+  ScalarProperties:
+  - InterlocutorId

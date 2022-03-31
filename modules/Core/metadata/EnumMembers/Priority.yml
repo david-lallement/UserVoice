@@ -1,0 +1,12 @@
+- Name: High
+  Caption: High
+  PersistedValue: 0
+  Position: 1
+- Name: Low
+  Caption: Low
+  PersistedValue: 2
+  Position: 3
+- Name: Medium
+  Caption: Medium
+  PersistedValue: 1
+  Position: 2

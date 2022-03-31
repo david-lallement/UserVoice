@@ -1,0 +1,4 @@
+ColumnsList:
+- UserEmail
+ReferencedTableName: User
+TableName: FeatureRequest

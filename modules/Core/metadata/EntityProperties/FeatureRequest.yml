@@ -1,0 +1,35 @@
+- Name: AttachmentUrl
+  Caption: Attachment url
+  MaxLength: 200
+- Name: AzureDevOpsUrl
+  Caption: Azure DevOps url
+  MaxLength: 200
+- Name: CategoryId
+  Caption: Category identifier
+  DataType: Integer
+- Name: Date
+  Caption: Date
+  DataType: DateTime
+- Name: Description
+  Caption: Description
+- Name: FeatureRequestId
+  Caption: Feature request identifier
+  DataType: AutoIncrementedInteger
+  Required: true
+- Name: InterlocutorId
+  Caption: Interlocutor identifier
+- Name: PlannedPeriod
+  Caption: Planned period
+- Name: Priority
+  Caption: Priority
+  DataType: Enum
+  EnumTypeName: Priority
+- Name: State
+  Caption: State
+  DataType: Enum
+  EnumTypeName: FeatureRequestState
+- Name: Title
+  Caption: Title
+  Required: true
+- Name: UserEmail
+  Caption: User email

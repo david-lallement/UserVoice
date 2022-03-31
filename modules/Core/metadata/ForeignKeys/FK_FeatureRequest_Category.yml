@@ -1,0 +1,4 @@
+ColumnsList:
+- CategoryId
+ReferencedTableName: Category
+TableName: FeatureRequest

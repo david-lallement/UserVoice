@@ -1,3 +1,8 @@
+- Name: FeatureRequest
+  ReferencedEntityName: FeatureRequest
+  ReferencedEntityNavigationPropertyName: Subscribers
+  ScalarProperties:
+  - FeatureRequestId
 - Name: User
   ReferencedEntityName: User
   ScalarProperties:

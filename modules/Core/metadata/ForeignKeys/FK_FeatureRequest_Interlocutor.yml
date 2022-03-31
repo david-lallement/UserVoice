@@ -1,0 +1,4 @@
+ColumnsList:
+- InterlocutorId
+ReferencedTableName: User
+TableName: FeatureRequest
