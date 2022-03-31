@@ -1,4 +1,4 @@
-EntityViewName: SubscriberView
+EntityViewName: UserRoleView
 Template: |-
   <vertical-layout layout:height="fill">
       <heading level="1" layout:padding="small">
@@ -16,11 +16,11 @@ Template: |-
               <splitter-panel>
                   <vertical-layout layout:height="fill" layout:padding="small">
                       <form-field property-name="Id" />
-                      <form-field property-name="Date" />
-                      <form-field property-name="UserEMail" />
+                      <form-field property-name="Role" />
+                      <form-field property-name="Title" />
                   </vertical-layout>
               </splitter-panel>
           </splitter>
       </card>
   </vertical-layout>
-Title: SubscriberUI
+Title: UserRoleUI

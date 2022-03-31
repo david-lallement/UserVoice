@@ -1,0 +1,9 @@
+- Name: Id
+  DatagridPosition: 1
+  DatagridVisible: true
+- Name: Role
+  DatagridPosition: 2
+  DatagridVisible: true
+- Name: Title
+  DatagridPosition: 3
+  DatagridVisible: true

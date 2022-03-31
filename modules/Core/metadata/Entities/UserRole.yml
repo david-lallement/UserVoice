@@ -1,3 +1,4 @@
 Description: UserRole
 KeyProperties:
 - Id
+TableName: UserRole
