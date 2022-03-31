@@ -4,14 +4,26 @@
   Source: AzureDevOpsUrl
 - Name: CategoryId
   Source: CategoryId
+- Name: CreatedBy
+  Caption: Created by
+  Description: Created by
+  Filterable: false
+  RelatedEntityViewName: UserView
+  Source: CreatedBy
+  Type: Reference
 - Name: Date
   Source: Date
 - Name: Description
   Source: Description
 - Name: FeatureRequestId
   Source: FeatureRequestId
-- Name: InterlocutorId
-  Source: InterlocutorId
+- Name: Interlocutor
+  Caption: Interlocutor
+  Description: Interlocutor
+  Filterable: false
+  RelatedEntityViewName: UserView
+  Source: Interlocutor
+  Type: Reference
 - Name: PlannedPeriod
   Source: PlannedPeriod
 - Name: Priority
@@ -20,5 +32,3 @@
   Source: State
 - Name: Title
   Source: Title
-- Name: UserEmail
-  Source: UserEmail
