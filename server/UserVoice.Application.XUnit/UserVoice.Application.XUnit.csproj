@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="../build/UserVoice.props" />
+  <PropertyGroup>
+    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="GroupeIsa.Neos.Application.XUnit" Version="1.0.1-alpha.812" />
+    <PackageReference Include="GroupeIsa.Neos.Domain.XUnit" Version="1.0.1-alpha.812" />
+    <PackageReference Include="GroupeIsa.Neos.Shared.XUnit" Version="1.0.1-alpha.812" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="../UserVoice.Application/UserVoice.Application.csproj" />
+    <ProjectReference Include="../UserVoice.Domain.XUnit/UserVoice.Domain.XUnit.csproj" />
+  </ItemGroup>
+</Project>
