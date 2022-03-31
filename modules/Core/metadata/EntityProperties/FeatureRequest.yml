@@ -1,6 +1,7 @@
 - Name: AttachmentUrl
   Caption: Attachment url
-  MaxLength: 200
+  DataType: MultilineString
+  MaxLength: 
 - Name: AzureDevOpsUrl
   Caption: Azure DevOps url
   MaxLength: 200
@@ -12,6 +13,8 @@
   DataType: DateTime
 - Name: Description
   Caption: Description
+  DataType: MultilineString
+  MaxLength: 
 - Name: FeatureRequestId
   Caption: Feature request identifier
   DataType: AutoIncrementedInteger

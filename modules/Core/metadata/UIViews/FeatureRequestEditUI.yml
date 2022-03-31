@@ -1,6 +1,11 @@
+DeletionAllowed: false
 EntityViewName: FeatureRequestView
+LoadDataOnStart: false
+MonoRecord: true
 Template: |-
   <vertical-layout>
+      <heading level="2">@Title</heading>
+      <toolbar refresh="false" />
       <form-field property-name="CategoryId"/>
       <form-field property-name="Title"/>
       <form-field property-name="Description"/>
