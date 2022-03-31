@@ -1,0 +1,8 @@
+# Authentication provider (optional)
+Authentication:
+  # Authority (required)
+  Authority: https://auth.neos.groupeisagri.com
+  # Client identifier (required)
+  ClientId: localhost
+  # Client secret (optional)
+  # ClientSecret: ...

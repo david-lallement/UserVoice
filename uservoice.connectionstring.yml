@@ -1,0 +1,12 @@
+# Persistence type
+# YamlFile | SqlServer | PostgreSQL | Oracle
+PersistenceType: YamlFile
+# The path for the YAML data directory
+YamlDataPath: ../UserVoiceData
+# The connection string that includes the source database name, and other parameters needed to establish the initial connection
+# SqlServer
+# ConnectionString: Data Source=[SERVER IP OR NAME];Initial Catalog=UserVoice;Persist Security Info=True;User ID=[USER];Password=[PASSWORD];Pooling=False
+# Oracle
+# ConnectionString: DATA SOURCE=[SERVER IP OR NAME]/[LISTENER];PERSIST SECURITY INFO=True;USER ID=[USER];PASSWORD=[PASSWORD]
+# PostgreSQL
+# ConnectionString: Server=[SERVER IP OR NAME];Port=[PORT];Database=UserVoice;User Id=[USER];Password=[PASSWORD]

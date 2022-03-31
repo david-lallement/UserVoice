@@ -1,0 +1,16 @@
+# The root namespace for the generated application
+RootNamespace: UserVoice
+# The cluster name
+ClusterName: UserVoice
+# The cluster version
+ClusterVersion: 0.0.1
+# The cluster description
+ClusterTitle: UserVoice
+# The company name
+Company: Groupe Isagri Services
+# The client service port
+ClientServicePort: 5030
+# The https service port
+HttpsServicePort: 6005
+# The http service port
+HttpServicePort: 6004
