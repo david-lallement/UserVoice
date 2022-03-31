@@ -1,0 +1,8 @@
+- Name: Email
+  Caption: Email
+  Required: true
+- Name: FirstName
+  Caption: First Name
+- Name: LastName
+  Caption: Last Name
+  Required: true

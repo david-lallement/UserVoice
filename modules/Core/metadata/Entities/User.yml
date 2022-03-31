@@ -1,0 +1,4 @@
+Description: User
+KeyProperties:
+- Email
+TableName: User
