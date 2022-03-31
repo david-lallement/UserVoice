@@ -1,0 +1,24 @@
+- Name: Closed
+  Caption: Closed
+  PersistedValue: 5
+  Position: 6
+- Name: InProgress
+  Caption: 'In Progress '
+  PersistedValue: 3
+  Position: 4
+- Name: Live
+  Caption: Live
+  PersistedValue: 4
+  Position: 5
+- Name: Open
+  Caption: Open
+  PersistedValue: 0
+  Position: 1
+- Name: Planned
+  Caption: 'Planned '
+  PersistedValue: 2
+  Position: 3
+- Name: UnderReview
+  Caption: Under revies
+  PersistedValue: 1
+  Position: 2

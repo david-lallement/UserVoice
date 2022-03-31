@@ -1,0 +1,4 @@
+Description: Category
+KeyProperties:
+- CategoryId
+TableName: Category
