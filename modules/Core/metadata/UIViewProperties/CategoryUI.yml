@@ -1,0 +1,6 @@
+- Name: CategoryId
+  DatagridPosition: 1
+  DatagridVisible: true
+- Name: Description
+  DatagridPosition: 2
+  DatagridVisible: true

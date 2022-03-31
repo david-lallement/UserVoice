@@ -1,0 +1,6 @@
+- Name: CategoryId
+  Caption: Category identifier
+  DataType: AutoIncrementedInteger
+  Required: true
+- Name: Description
+  Caption: Description
