@@ -1,4 +1,4 @@
 - Name: User
   ReferencedEntityName: User
   ScalarProperties:
-  - UserEMail
+  - UserMail
