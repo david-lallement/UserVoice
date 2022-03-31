@@ -12,10 +12,10 @@
 - Name: FeatureRequestId
   DatagridPosition: 1
   DatagridVisible: true
+- Name: FeatureRequestState
 - Name: InterlocutorId
 - Name: PlannedPeriod
 - Name: Priority
-- Name: State
 - Name: Title
   DatagridPosition: 5
   DatagridVisible: true

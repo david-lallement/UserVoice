@@ -16,6 +16,9 @@
   Caption: Feature request identifier
   DataType: AutoIncrementedInteger
   Required: true
+- Name: FeatureRequestStateId
+  Caption: Feature Request State
+  DataType: Integer
 - Name: InterlocutorId
   Caption: Interlocutor identifier
 - Name: PlannedPeriod
@@ -24,10 +27,6 @@
   Caption: Priority
   DataType: Enum
   EnumTypeName: Priority
-- Name: State
-  Caption: State
-  DataType: Enum
-  EnumTypeName: FeatureRequestState
 - Name: Title
   Caption: Title
   Required: true

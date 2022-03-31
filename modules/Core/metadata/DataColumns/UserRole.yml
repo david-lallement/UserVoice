@@ -1,0 +1,7 @@
+- Name: Id
+  DataType: Integer
+  Required: true
+- Name: Role
+  DefaultValue: Client
+- Name: Title
+  Required: true

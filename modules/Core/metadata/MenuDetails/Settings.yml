@@ -1,0 +1,14 @@
+- MenuItemName: Category
+  ParentMenuItemName: Settings
+  Position: 1
+- MenuItemName: FeatureRequestState
+  ParentMenuItemName: Settings
+  Position: 3
+- MenuItemName: Settings
+  Position: 1
+- MenuItemName: User
+  ParentMenuItemName: Settings
+  Position: 2
+- MenuItemName: UserRole
+  ParentMenuItemName: Settings
+  Position: 4
