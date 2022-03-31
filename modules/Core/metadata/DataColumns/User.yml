@@ -1,0 +1,5 @@
+- Name: Email
+  Required: true
+- Name: FirstName
+- Name: LastName
+  Required: true

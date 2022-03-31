@@ -1,0 +1,8 @@
+- Name: Administrator
+  Caption: Administrator
+  PersistedValue: A
+  Position: 2
+- Name: Client
+  Caption: Client
+  PersistedValue: C
+  Position: 1

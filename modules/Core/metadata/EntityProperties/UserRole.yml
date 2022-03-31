@@ -1,0 +1,12 @@
+- Name: Id
+  Caption: Id
+  DataType: Integer
+  Required: true
+- Name: Role
+  Caption: Role
+  DataType: Enum
+  DefaultValue: Client
+  EnumTypeName: RoleType
+- Name: Title
+  Caption: Title
+  Required: true
