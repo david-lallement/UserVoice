@@ -6,6 +6,10 @@
   ReferencedEntityName: User
   ScalarProperties:
   - UserEmail
+- Name: FeatureRequestState
+  ReferencedEntityName: FeatureRequestState
+  ScalarProperties:
+  - FeatureRequestStateId
 - Name: Interlocutor
   ReferencedEntityName: User
   ScalarProperties:

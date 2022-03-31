@@ -10,14 +10,17 @@
   Source: Description
 - Name: FeatureRequestId
   Source: FeatureRequestId
+- Name: FeatureRequestState
+  Caption: 'Feature Request State '
+  Filterable: false
+  RelatedEntityViewName: FeatureRequestStateView
+  Source: FeatureRequestState
 - Name: InterlocutorId
   Source: InterlocutorId
 - Name: PlannedPeriod
   Source: PlannedPeriod
 - Name: Priority
   Source: Priority
-- Name: State
-  Source: State
 - Name: Title
   Source: Title
 - Name: UserEmail
