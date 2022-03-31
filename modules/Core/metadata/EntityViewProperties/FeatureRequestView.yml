@@ -3,6 +3,7 @@
 - Name: AzureDevOpsUrl
   Source: AzureDevOpsUrl
 - Name: CategoryId
+  Caption: Category
   Source: CategoryId
 - Name: Date
   Source: Date
@@ -10,11 +11,8 @@
   Source: Description
 - Name: FeatureRequestId
   Source: FeatureRequestId
-- Name: FeatureRequestState
-  Caption: 'Feature Request State '
-  Filterable: false
-  RelatedEntityViewName: FeatureRequestStateView
-  Source: FeatureRequestState
+- Name: FeatureRequestStateId
+  Source: FeatureRequestStateId
 - Name: InterlocutorId
   Source: InterlocutorId
 - Name: PlannedPeriod

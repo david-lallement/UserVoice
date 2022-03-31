@@ -5,40 +5,18 @@
   DatagridPosition: 7
   DatagridVisible: true
 - Name: CategoryId
-- Name: CreatedBy
-- Name: CreatedByName
-  Caption: Created by
-  DatagridPosition: 2
-  DatagridVisible: true
-  DataType: String
-  Filterable: false
-  Getter: =return $"{CreatedBy.FirstName}, {CreatedBy.LastName}";
-  QuickSearch: false
-  ReadOnly: true
-  Required: false
+  Caption: Category identifier
 - Name: Date
 - Name: Description
 - Name: FeatureRequestId
   DatagridPosition: 1
   DatagridVisible: true
-- Name: Interlocutor
-- Name: InterlocutorName
-  Caption: Interlocutor
-  DatagridPosition: 3
-  DatagridVisible: true
-  DataType: String
-  Filterable: false
-  Getter: =return $"{Interlocutor.FirstName}, {Interlocutor.LastName}";
-  QuickSearch: false
-  ReadOnly: true
-  Required: false
+- Name: InterlocutorId
 - Name: PlannedPeriod
 - Name: Priority
   DatagridPosition: 4
   DatagridVisible: true
-- Name: State
-  DatagridPosition: 5
-  DatagridVisible: true
 - Name: Title
   DatagridPosition: 6
   DatagridVisible: true
+- Name: UserEmail

@@ -1,3 +1,9 @@
 Description: Feature requests list
 EntityViewName: FeatureRequestView
+Template: |-
+  <vertical-layout layout:height="fill" layout:padding="small">
+      <toolbar refresh="true" />
+      <datagrid layout:height="fill" />
+      <pagination-bar />
+  </vertical-layout>
 Title: Feature requests list
