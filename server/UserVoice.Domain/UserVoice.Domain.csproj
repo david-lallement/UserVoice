@@ -1,7 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-  <Import Project="../build/UserVoice.props" />
-  <ItemGroup>
-    <PackageReference Include="GroupeIsa.Neos.Domain.Abstractions" Version="1.0.1-alpha.812" />
-    <PackageReference Include="GroupeIsa.Neos.Shared" Version="1.0.1-alpha.812" />
-  </ItemGroup>
-</Project>
