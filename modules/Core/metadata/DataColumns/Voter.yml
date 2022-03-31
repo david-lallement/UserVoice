@@ -1,0 +1,8 @@
+- Name: Date
+  DataType: DateTime
+  Required: true
+- Name: Id
+  DataType: AutoIncrementedInteger
+  Required: true
+- Name: UserMail
+  Required: true

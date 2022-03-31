@@ -1,0 +1,15 @@
+- Name: Date
+  Caption: Date
+  DataType: DateTime
+- Name: Description
+  Caption: Description
+  DataType: MultilineString
+  MaxLength: 4000
+  Required: true
+- Name: Id
+  Caption: Id
+  DataType: AutoIncrementedInteger
+  Required: true
+- Name: UserMail
+  Caption: USer
+  Required: true

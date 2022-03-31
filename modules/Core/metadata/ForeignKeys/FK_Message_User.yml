@@ -1,0 +1,4 @@
+ColumnsList:
+- UserMail
+ReferencedTableName: User
+TableName: Message
