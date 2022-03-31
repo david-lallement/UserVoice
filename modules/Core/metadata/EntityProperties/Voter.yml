@@ -1,0 +1,11 @@
+- Name: Date
+  Caption: Date
+  DataType: DateTime
+  Required: true
+- Name: Id
+  Caption: Id
+  DataType: AutoIncrementedInteger
+  Required: true
+- Name: UserMail
+  Caption: User
+  Required: true

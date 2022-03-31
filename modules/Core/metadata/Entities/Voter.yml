@@ -1,0 +1,4 @@
+Description: Voter
+KeyProperties:
+- Id
+TableName: Voter

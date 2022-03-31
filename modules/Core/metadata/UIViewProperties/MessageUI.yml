@@ -1,0 +1,12 @@
+- Name: Date
+  DatagridPosition: 2
+  DatagridVisible: true
+- Name: Description
+  DatagridPosition: 3
+  DatagridVisible: true
+- Name: Id
+  DatagridPosition: 1
+  DatagridVisible: true
+- Name: UserMail
+  DatagridPosition: 4
+  DatagridVisible: true
