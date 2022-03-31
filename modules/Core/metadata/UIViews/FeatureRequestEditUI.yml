@@ -1,0 +1,9 @@
+EntityViewName: FeatureRequestView
+Template: |-
+  <vertical-layout>
+      <form-field property-name="CategoryId"/>
+      <form-field property-name="Title"/>
+      <form-field property-name="Description"/>
+      <form-field property-name="Priority"/>
+  </vertical-layout>
+Title: Request creation
